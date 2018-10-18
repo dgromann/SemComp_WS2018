@@ -1,4 +1,4 @@
-# SemComp_WS2018
+# Tutorial Materials for Semantic Computing (WS 2018/2019)
 This GitHub repository provides the tutorial materials for the TU Dresden lecture entitled Semantic Computing in Winter Semester 2018/2019. The repository will be upated with the new tutorial materials always before the new tutorial takes place. All materials are provided within a Jupyter notebook that is hosted on Google Codelab. This has the advantage that you do not need to install any software locally and can run all applications in the notebook online. 
 
 In order to get started with the materials, please go to "Tutorial1" and click on the file "Tutorial1.ipynb". At the top of the file you see a button "Open in Codelab" - click on it or if that does not work into the space on the right of the button (a small bug in Codelab) to open the notebook of Tutorial 1 in Codelab. 
