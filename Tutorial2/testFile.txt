@@ -1,0 +1,10 @@
+String1;String2;distance
+book;back;2
+test;tent;1
+industry;interest;6
+gumbo;gambol;2
+interest;interest;0
+today;tomorrow;6
+yesterday;tomorrow;8
+day;night;5
+above;below;5
