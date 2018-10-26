@@ -1,4 +1,4 @@
-Word;SentenceID;POS;Text 
+Word;SentenceID;POS;Text;Target_Sense
 bank;1;n;I went to the bank to deposit my money;Synset('depository_financial_institution.n.01')
 bank;2;n;The bank on the riverside was full of dead fishes;Synset('bank.n.01')
 plant;3;n;The workers at the industrial plant were overworked;Synset('plant.n.01')
